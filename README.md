@@ -1,13 +1,23 @@
-# Create a new folder and move into it
-mkdir data-equality-analysis
-cd data-equality-analysis
+# Deloitte Australia Data Analytics Virtual Experience
 
-# Copy your files into this folder, then:
-git init
-git add .
-git commit -m "Initial commit - Tableau workbook and data file"
+## Overview
+This project was completed as part of the **Deloitte Australia Data Analytics Virtual Experience** on the **Forage** platform.  
+The simulation provided real-world insights into the data analytics consulting process, focusing on data cleaning, visualization, and storytelling to support business decision-making.
 
-# Link your GitHub repo (replace with your repo link)
-git remote add origin https://github.com/<your-username>/data-equality-analysis.git
-git branch -M main
-git push -u origin main
+---
+
+## Objective
+To perform an end-to-end data analysis project simulating a real consulting engagement at Deloitte, including data preparation, insight generation, and business presentation.
+
+---
+
+## Key Tasks Completed
+
+### 1. Data Cleaning and Preparation
+- Processed and validated raw business data for accuracy and consistency.  
+- Applied data transformation techniques to remove duplicates, handle missing values, and structure data for analysis.  
+- Ensured data integrity to support evidence-based recommendations.
+
+### 2. Exploratory Data Analysis (EDA)
+- Performed descriptive statistical analysis using **Excel** and **Power BI** tools.  
+- Identified trends, outliers, and performance indicators across
