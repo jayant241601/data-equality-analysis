@@ -19,5 +19,5 @@ To perform an end-to-end data analysis project simulating a real consulting enga
 - Ensured data integrity to support evidence-based recommendations.
 
 ### 2. Exploratory Data Analysis (EDA)
-- Performed descriptive statistical analysis using **Excel** and **Power BI** tools.  
+- Performed descriptive statistical analysis using **Excel** and **tableau** tools.  
 - Identified trends, outliers, and performance indicators across
